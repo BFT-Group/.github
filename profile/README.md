@@ -1,6 +1,6 @@
 ## Hey there, triangle!
 
-<
+
 
 **Here are some ideas to get you started:**
 
